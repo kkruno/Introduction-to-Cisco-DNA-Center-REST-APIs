@@ -1,5 +1,6 @@
-# These excercises follow the instructions and supplied code from the Cisco DevNet course "Cisco DNA Center REST APIs", available free access at: https://developer.cisco.com/learning/modules/dnac-rest-apis/.
-# Along with the online course I follow the OCG for the Devnet Associate.
+# These excercises follow the instructions and supplied code from the Cisco DevNet course "Cisco DNA Center REST APIs", publicly available at: https://developer.cisco.com/learning/modules/dnac-rest-apis/.
+# Along with the online course, these excercises also follow the Official Certification Guide (OCG) for the DevNet Associate.
+
 
 The repository contains scripts and examples to excercise querying Cisco DNA Center REST APIs
 **Introduction to Cisco DNA Center REST APIs**
